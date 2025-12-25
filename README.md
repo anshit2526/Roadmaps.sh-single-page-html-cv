@@ -36,3 +36,6 @@ View the project live at: https://anshit2526.github.io/Roadmaps.sh-single-page-h
 
 ## License
 Feel free to customize and use this template for your own CV.
+
+## Original project from Roadmaps.sh
+https://roadmap.sh/projects/single-page-cv 
