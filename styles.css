@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', 'Ubuntu', 'JetBrains Mono', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+    background-color: #000000;
+    color: #333;
+}
+
+
+.resume-container {
+    padding: 3rem;
+    background-color: #f7f7e7;
+    width: 35rem;
+    margin: 0 auto;
+}
+
+.name {
+    font-weight: 400;
+    margin: 0.5em 0;
+    font-size: 1.5rem;
+}
+
+.section-headings {
+    font-weight: 400;
+    font-size: 0.85rem;
+    color: rgb(32 160 0);
+    margin-block: 1rem;
+}
+
+.section-heading-content {
+    font-size: 0.85rem;
+    margin: 0.5rem 0;
+}
+
+.achievement-list {
+    margin-left: 2rem;
+    ;
+}
+
+.company {
+    color: rgb(60, 100, 230);
+}
+
+.across-internet {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    flex-direction: row;
+}
+
+.across-internet li {
+    margin-right: 1rem !important;
+}
