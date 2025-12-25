@@ -31,5 +31,8 @@ Once running, open your browser and navigate to:
 - `styles.css` - Styling for the resume
 - `README.md` - This file
 
+## View the Live Project
+View the project live at: https://anshit2526.github.io/Roadmaps.sh-single-page-html-cv/
+
 ## License
 Feel free to customize and use this template for your own CV.
